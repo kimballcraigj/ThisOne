@@ -40,25 +40,26 @@ public class MetricConversion {
 	}
 	
 	public static void ftToCm(double number) {
-		
+		System.out.println("your conversion is :" + number * 30);
 	}
 	public static void ydToM(double number) {
-	
+		System.out.println("your conversion is :" + number * 0.91);
 	}
 	public static void milesToKm(double number) {
-	
+		System.out.println("your conversion is :" + number * 1.6);
 	}
 	public static void cmToIn(double number) {
-	
+		System.out.println("your conversion is :" + number / 2.54);
 	}
 	public static void cmToFt(double number) {
-	
+		System.out.println("your conversion is :" + number / 30);
 	}
 	public static void mToYd(double number) {
-	
+		System.out.println("your conversion is :" + number / 0.91);
 	}
 	public static void kmToMiles(double number) {
-	
+		System.out.println("your conversion is :" + number / 1.6);
+
 	}
 	
 	
