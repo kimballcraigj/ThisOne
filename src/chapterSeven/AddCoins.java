@@ -28,4 +28,6 @@ public class AddCoins {
 		System.out.println("Your total is: $" + (pennies + ( nickels * 5) + (dimes * 10) + (quarters * 25)) / 100);
 		
 	}
+	//testing to see what breaks
+	
 }
